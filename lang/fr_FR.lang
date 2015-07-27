@@ -23,7 +23,7 @@ itemGroup.props.Art=Accessoires [Art]
 itemGroup.props.Trophies=Accessoires [Trophées]
 
 text.props.gui.title=Decobench
-text.props.gui.info= - Shift for Info - 
+text.props.gui.info= - Majuscule pour plus d'infos - 
 text.props.gui.search=Search Here!
 text.props.gui.slot.input=Drop Resources Here!
 text.props.gui.slot.output=Pickup Finished Model Here!
